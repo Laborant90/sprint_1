@@ -2363,6 +2363,12 @@
         <mxCell id="BU9cJ8keJFfkabNRQOVp-18" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Услуга. Описание&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="SmPP_l_10qCC8gUtCl0v-29" vertex="1">
           <mxGeometry x="33.5" y="140" width="112" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="SmPP_l_10qCC8gUtCl0v-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;strokeColor=#FF0D0D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iEPPYSfaUFhvxDA5gu2L-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2960" y="-918" as="sourcePoint" />
+            <mxPoint x="2970" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
