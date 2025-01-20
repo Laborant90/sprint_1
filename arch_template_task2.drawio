@@ -2809,7 +2809,7 @@
             <mxPoint x="3260" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWIsh8mfyFymKHUnkGiG-32" value="Нотификация об изменении состояния заказа" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="wWIsh8mfyFymKHUnkGiG-32" value="Нотификация об изменении состояния заказа&lt;div&gt;(событие в топике kafka)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="3395" y="-650" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wWIsh8mfyFymKHUnkGiG-35" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.805;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JhKURs0GYHj6um0EQBQl-2" target="LwadgV4z5J725EoCefZd-2">
@@ -2830,11 +2830,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWIsh8mfyFymKHUnkGiG-37" value="Нотификация нового пользователя" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2950" y="-260" width="180" height="30" as="geometry" />
+        <mxCell id="wWIsh8mfyFymKHUnkGiG-37" value="Нотификация нового пользователя&lt;div&gt;(событие в топике kafka)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="-270" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wWIsh8mfyFymKHUnkGiG-38" value="Нотификация участника аукциона" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2950" y="-360" width="180" height="30" as="geometry" />
+        <mxCell id="wWIsh8mfyFymKHUnkGiG-38" value="Нотификация участника аукциона&lt;div&gt;(событие в топике kafka)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="-370" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y8LUEy8OWba_ujrpbPeH-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2100" y="-220" width="170" height="49" as="geometry" />
