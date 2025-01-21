@@ -59,7 +59,7 @@ Lazy loading (ленивая загрузка) — приложение загр
 
 Разбивку монолита на микросервисы выполнил в файле arch_template_task2.drawio
 
-https://app.diagrams.net/#HLaborant90%2Fsprint_1%2Fmain%2Farch_template_task2.drawio#%7B%22pageId%22%3A%227j0TXYk0JpZNQkAnFjsh%22%7D
+https://app.diagrams.net/#HLaborant90%2Fsprint_1%2Fhometask%2Farch_template_task2.drawio#%7B%22pageId%22%3A%227j0TXYk0JpZNQkAnFjsh%22%7D
 
 Сценарий создания заказа
 
